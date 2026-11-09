@@ -1,0 +1,19 @@
+{
+  "name": "lenz-ai-visibility-guide",
+  "displayName": "Lenz AI Visibility Guide",
+  "version": "1.0.0",
+  "description": "Check whether AI assistants name your business: write buyer questions from your website, test them in ChatGPT, Gemini, Perplexity and others, and find the three site changes that matter most (AEO / AI search visibility).",
+  "author": {
+    "name": "Elementera AI Inc.",
+    "url": "https://www.elementera.com/?utm_source=github&utm_medium=referral&utm_campaign=claude-plugin"
+  },
+  "homepage": "https://github.com/elementera/aeo-ai-search-visibility",
+  "repository": "https://github.com/elementera/aeo-ai-search-visibility",
+  "license": "MIT",
+  "keywords": ["aeo", "answer engine optimization", "ai search visibility", "ai visibility", "geo", "generative engine optimization", "buyer questions", "ai citations", "llm seo", "chatgpt", "gemini", "perplexity", "ai overviews", "small business"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://github.com/elementera/aeo-ai-search-visibility#readme",
+  "supportUrl": "https://www.elementera.com/contact?utm_source=github&utm_medium=referral&utm_campaign=claude-plugin",
+  "privacyPolicyUrl": "https://www.elementera.com/privacy-policy",
+  "termsOfServiceUrl": "https://www.elementera.com/terms-of-service"
+}

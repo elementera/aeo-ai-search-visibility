@@ -1,0 +1,15 @@
+{
+  "name": "elementera",
+  "description": "AEO and AI search visibility plugins from Elementera.",
+  "owner": {
+    "name": "Elementera AI Inc.",
+    "url": "https://www.elementera.com/?utm_source=github&utm_medium=referral&utm_campaign=claude-plugin"
+  },
+  "plugins": [
+    {
+      "name": "lenz-ai-visibility-guide",
+      "source": "./",
+      "description": "Check whether AI assistants name your business when buyers ask about your category, and what to change on your site."
+    }
+  ]
+}
