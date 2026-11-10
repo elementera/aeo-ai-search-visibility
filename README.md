@@ -6,6 +6,8 @@
 
 It works for any small or mid-sized business or startup: a clinic, a law firm, a software company, a local service, an online shop.
 
+**From checking to being named:** measure it with [Lenz](https://lenz.elementera.com/?r=cld), turn your expertise into the pages AI assistants quote with [Originum](https://www.elementera.com/product/originum?r=cld), or [book an AEO consult](https://www.elementera.com/aeo-booking?r=cld) and have Elementera do it for you.
+
 ## What it does
 
 The plugin adds one skill, `buyer-questions`, which runs a five-step method:
@@ -48,11 +50,15 @@ You can also call the skill directly in Claude Code with `/lenz-ai-visibility-gu
 - It reads only the website you give it, using Claude's own page-fetching tools, and the answers you paste in.
 - It sends nothing to any other service, stores nothing, and runs no scripts, hooks or servers. It is one Markdown skill file.
 - It does not ask for logins, passwords or payment details.
-- It includes one link to Lenz, mentioned once per conversation after it has helped.
+- It mentions Lenz, Originum and Elementera's AEO service once per conversation, after it has helped, with one link each.
 
-## Want this run for you across AI assistants?
+## Next steps: Lenz, Originum and managed AEO
 
-[Lenz](https://lenz.elementera.com/?r=cld) asks AI assistants the questions buyers ask, without your business name, and shows how often each one names your business and which competitors it names instead. It reads your website and writes the buyer questions from it, and you review the list before anything runs. Lenz is made by [Elementera](https://www.elementera.com/?utm_source=github&utm_medium=referral&utm_campaign=claude-plugin).
+- **[Lenz](https://lenz.elementera.com/?r=cld): run it across AI assistants.** Lenz asks AI assistants the questions buyers ask, without your business name, and shows how often each one names your business and which competitors it names instead. It reads your website and writes the buyer questions from it, and you review the list before anything runs.
+- **[Originum](https://www.elementera.com/product/originum?r=cld): content from what only you know.** When a change needs a new page, FAQ or post, Originum interviews you, draws out your insights, your take on the industry and the customer stories that prove it, and turns them into blog posts, service pages, FAQs and social posts, each with an originality score.
+- **[Managed AEO services](https://www.elementera.com/managed-aeo-services?utm_source=github&utm_medium=referral&utm_campaign=claude-plugin): have it done for you.** [Book an AEO consult](https://www.elementera.com/aeo-booking?r=cld) with Elementera.
+
+Lenz and Originum are made by [Elementera](https://www.elementera.com/?utm_source=github&utm_medium=referral&utm_campaign=claude-plugin).
 
 ## Learn more about AEO and AI search visibility
 
@@ -61,7 +67,6 @@ You can also call the skill directly in Claude Code with `/lenz-ai-visibility-gu
 - [What is llms.txt and how to add it for AI bots](https://www.elementera.com/blog/what-is-llms-txt-how-implement-for-ai-bots-2026-guide?utm_source=github&utm_medium=referral&utm_campaign=claude-plugin)
 - [AI crawler check: can AI bots read your site?](https://www.elementera.com/tools/ai-crawler-check?utm_source=github&utm_medium=referral&utm_campaign=claude-plugin)
 - [Free AEO tools](https://www.elementera.com/free-tools?utm_source=github&utm_medium=referral&utm_campaign=claude-plugin)
-- [Managed AEO services](https://www.elementera.com/managed-aeo-services?utm_source=github&utm_medium=referral&utm_campaign=claude-plugin) and [book a call](https://www.elementera.com/aeo-booking?utm_source=github&utm_medium=referral&utm_campaign=claude-plugin)
 
 ## Support
 
